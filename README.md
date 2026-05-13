@@ -1,15 +1,34 @@
 <div align="center">
 
-# Nani Reddy
-**DevOps Engineer & Full Stack Architect**
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2000&color=0EA5E9&center=false&vCenter=true&width=600&lines=DevOps+Trainee+@Wipro;Full+Stack+Developer+@Webcros;Ex-Tech+Mahindra+COE;Building+Scalable+Enterprise+Systems)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=NANI%20REDDY&fontSize=58&fontColor=F5F5F5&animation=fadeIn&fontAlignY=42"/>
 
-<p align="left">
-  <a href="https://linkedin.com/in/nani-neelapu-359a85232"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:neelapunani2580@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
-  <a href="https://github.com/nanineelapu"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=C9A227&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;DevOps+Engineer;Motion+UI+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/DevOps%20Trainee-Wipro-111111?style=for-the-badge&logo=icloud&logoColor=C9A227"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Full%20Stack-Webcros-111111?style=for-the-badge&logo=vercel&logoColor=C9A227"/>
+
+<br/><br/>
+
+<a href="https://github.com/nanineelapu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=C9A227"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=C9A227"/>
+</a>
+
+</div>
 
 ---
 
