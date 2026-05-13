@@ -1,16 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,35:0f172a,70:111827,100:020617&text=NANI%20REDDY&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20•%20DevOps%20Engineer%20•%20Motion%20UI%20Developer&descAlignY=63&descSize=18&stroke=00F5FF&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=320&color=0:000000,50:0a0a0a,100:111111&text=HI,%20I'M%20NANI%20REDDY&fontSize=52&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20DEVOPS%20ENGINEER%20•%20MOTION%20UI%20DEVELOPER&descAlignY=63&descSize=18&stroke=FF0000&strokeWidth=2"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2500&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;DevOps+Engineer;Motion+UI+Developer;Cloud+Native+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=2200&color=FFD700&center=true&vCenter=true&width=900&lines=FULL+STACK+ENGINEER;DEVOPS+ENGINEER;BUILDING+SCALABLE+SYSTEMS;MOTION+UI+DEVELOPER)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nanineelapu&label=Profile+Views&color=00f5ff&style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=nanineelapu&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge&labelColor=111111"/>
+
 &nbsp;
-<img src="https://img.shields.io/github/followers/nanineelapu?label=Followers&style=flat-square&color=00f5ff&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/github/followers/nanineelapu?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=111111"/>
 
 </div>
 
