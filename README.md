@@ -60,47 +60,7 @@ I am a multi-stack engineer focused on building robust backend infrastructure, a
 
 </div>
 ---
-
-### 👨‍💻 Engineering Profile
-
-I am a multi-stack engineer focused on building robust backend infrastructure, automating deployment pipelines, and crafting seamless, code-driven user interfaces. Currently operating at the intersection of **DevOps** and **Full Stack Development**.
-
-- 🚀 **Currently:** DevOps Trainee at **Wipro** & Full Stack Developer at **Webcros**.
-- 🎓 **Background:** Tech Mahindra COE Graduate.
-- 🎯 **Focus Areas:** CI/CD Automation, Cloud Native Systems, API Architecture, and Motion UI (GSAP/React).
-- 💼 **Future:** Incoming Associate at **Amazon** (May 2026).
-
----
-
-### 🛠️ Technical Ecosystem
-
-**Infrastructure & Operations**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-**Software Engineering (Full Stack)**
-<br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-
----
-
-### 📊 Development Analytics
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nanineelapu&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=737373&icon_color=0EA5E9&bg_color=00000000" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanineelapu&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=737373&bg_color=00000000" />
-</p>
-
-<br/>
+<br>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0EA5E9&section=footer"/>
