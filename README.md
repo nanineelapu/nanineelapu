@@ -59,12 +59,7 @@ I am a multi-stack engineer focused on building robust backend infrastructure, a
 </p>
 
 </div>
----
-<br>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0EA5E9&section=footer"/>
-</p>
+--
 
 </div>
 # 🛸 System Overview
