@@ -1,20 +1,58 @@
-<div align="center">
+<div align="left">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=320&color=1a1a2e,16213e,0f3460&text=NANI%20REDDY&fontSize=80&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=DEV-OPS%20ENGINEER%20•%20FULL%20STACK%20ARCHITECT&descAlignY=63&descSize=20&stroke=00f5ff&strokeWidth=1"/>
+# Nani Reddy
+**DevOps Engineer & Full Stack Architect**
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2000&color=0EA5E9&center=false&vCenter=true&width=600&lines=DevOps+Trainee+@Wipro;Full+Stack+Developer+@Webcros;Ex-Tech+Mahindra+COE;Building+Scalable+Enterprise+Systems)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=2000&color=00F5FF&center=true&vCenter=true&width=900&lines=DEVOPS+ENGINEER+@WIPRO;FULL+STACK+DEV+@WEBCROS;MOTION+UI+SPECIALIST;BUILDING+THE+FUTURE+OF+WEB)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nanineelapu&label=SYSTEM+ACCESSES&color=00f5ff&style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/followers/nanineelapu?label=NETWORK+STRENGTH&style=for-the-badge&color=7000ff&labelColor=1a1a2e"/>
-
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/nani-neelapu-359a85232"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:neelapunani2580@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
+  <a href="https://github.com/nanineelapu"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github"/></a>
+</p>
 
 ---
 
+### 👨‍💻 Engineering Profile
+
+I am a multi-stack engineer focused on building robust backend infrastructure, automating deployment pipelines, and crafting seamless, code-driven user interfaces. Currently operating at the intersection of **DevOps** and **Full Stack Development**.
+
+- 🚀 **Currently:** DevOps Trainee at **Wipro** & Full Stack Developer at **Webcros**.
+- 🎓 **Background:** Tech Mahindra COE Graduate.
+- 🎯 **Focus Areas:** CI/CD Automation, Cloud Native Systems, API Architecture, and Motion UI (GSAP/React).
+- 💼 **Future:** Incoming Associate at **Amazon** (May 2026).
+
+---
+
+### 🛠️ Technical Ecosystem
+
+**Infrastructure & Operations**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+**Software Engineering (Full Stack)**
+<br/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+
+---
+
+### 📊 Development Analytics
+
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nanineelapu&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=737373&icon_color=0EA5E9&bg_color=00000000" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanineelapu&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=737373&bg_color=00000000" />
+</p>
+
+</div>
 # 🛸 System Overview
 
 <div align="center">
