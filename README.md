@@ -52,6 +52,12 @@ I am a multi-stack engineer focused on building robust backend infrastructure, a
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanineelapu&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=737373&bg_color=00000000" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0EA5E9&section=footer"/>
+</p>
+
 </div>
 # 🛸 System Overview
 
