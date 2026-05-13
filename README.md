@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # Nani Reddy
 **DevOps Engineer & Full Stack Architect**
